@@ -672,9 +672,13 @@ section.sobre .container{
 }
 
 section.sobre .img-destaque-sobre{
-    width: 100%;
+    width: 50%;
     padding-top: 60%;
-    background-color: rgba(160, 158, 158, 0.459);
+    background-image: url('imagens/logo.png');
+    background-repeat: no-repeat;
+    position: relative;
+    left: 280px;
+    margin-top: 150px;
 }
 
 section.sobre .descricao-autor{
